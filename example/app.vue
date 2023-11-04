@@ -17,7 +17,7 @@
   }
 
   a {
-    color: inherit;
+    color: inherit;####
   }
 
   .page-back {
